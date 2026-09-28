@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|c:\\users\\asus\\downloads\\host\\host\\super-hot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87723FFA-E757-4618-967E-93086E36CA06}|..\\DTO\\DTO.csproj|c:\\users\\asus\\downloads\\host\\host\\dto\\hostinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A0F00-C08C-4683-B915-F384290E01E4}|..\\BLL\\BLL.csproj|c:\\users\\asus\\downloads\\host\\host\\bll\\tonghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A0F00-C08C-4683-B915-F384290E01E4}|..\\BLL\\BLL.csproj|c:\\users\\asus\\downloads\\host\\host\\bll\\pingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A0F00-C08C-4683-B915-F384290E01E4}|..\\BLL\\BLL.csproj|c:\\users\\asus\\downloads\\host\\host\\bll\\hostmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3A0F00-C08C-4683-B915-F384290E01E4}|..\\BLL\\BLL.csproj|c:\\users\\asus\\downloads\\host\\host\\bll\\hostservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6CDDA-324F-42CE-A438-B8AAB6F68E50}|..\\DAL\\DAL.csproj|c:\\users\\asus\\downloads\\host\\host\\dal\\hotmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6CDDA-324F-42CE-A438-B8AAB6F68E50}|..\\DAL\\DAL.csproj|c:\\users\\asus\\downloads\\host\\host\\dal\\hostdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F6CDDA-324F-42CE-A438-B8AAB6F68E50}|..\\DAL\\DAL.csproj|c:\\users\\asus\\downloads\\host\\host\\dal\\connect_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|c:\\users\\asus\\downloads\\host\\host\\super-hot\\uc_mainhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|solutionrelative:uc_mainhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|c:\\users\\asus\\downloads\\host\\host\\super-hot\\uc_mainhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|solutionrelative:uc_mainhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|c:\\users\\asus\\downloads\\host\\host\\super-hot\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|c:\\users\\asus\\downloads\\host\\host\\super-hot\\uc_mainhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|solutionrelative:uc_mainhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|c:\\users\\asus\\downloads\\host\\host\\super-hot\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81374519-8C7E-4D69-B705-B65C5489A3F1}|GUI-super-hot.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HostInfo.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\DTO\\HostInfo.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\HostInfo.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\DTO\\HostInfo.cs",
+              "RelativeToolTip": "..\\DTO\\HostInfo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:02:31.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TongHost.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\BLL\\TongHost.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\TongHost.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\BLL\\TongHost.cs",
+              "RelativeToolTip": "..\\BLL\\TongHost.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:02:28.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PingService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\BLL\\PingService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\PingService.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\BLL\\PingService.cs",
+              "RelativeToolTip": "..\\BLL\\PingService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:02:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HostMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\BLL\\HostMonitor.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\HostMonitor.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\BLL\\HostMonitor.cs",
+              "RelativeToolTip": "..\\BLL\\HostMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:02:21.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\DAL\\HotMonitor.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\HotMonitor.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\DAL\\HotMonitor.cs",
+              "RelativeToolTip": "..\\DAL\\HotMonitor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:02:16.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Connect_DB.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\DAL\\Connect_DB.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Connect_DB.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\DAL\\Connect_DB.cs",
+              "RelativeToolTip": "..\\DAL\\Connect_DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:01:07.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HostDAL.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\DAL\\HostDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\HostDAL.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\DAL\\HostDAL.cs",
+              "RelativeToolTip": "..\\DAL\\HostDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:01:02.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:02:51.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HostServiceDB.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\BLL\\HostServiceDB.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\HostServiceDB.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\BLL\\HostServiceDB.cs",
+              "RelativeToolTip": "..\\BLL\\HostServiceDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:00:57.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAwwJcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:24:10.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_MainHome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\UC_MainHome.Designer.cs",
+              "RelativeDocumentMoniker": "UC_MainHome.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\UC_MainHome.Designer.cs",
+              "RelativeToolTip": "UC_MainHome.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwNcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:22:42.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_MainHome.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\UC_MainHome.cs",
+              "RelativeDocumentMoniker": "UC_MainHome.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\UC_MainHome.cs",
+              "RelativeToolTip": "UC_MainHome.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:22:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_MainHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\UC_MainHome.cs",
+              "RelativeDocumentMoniker": "UC_MainHome.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\UC_MainHome.cs [Design]",
+              "RelativeToolTip": "UC_MainHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T05:22:31.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\Host\\Host\\super-hot\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T04:02:49.933Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
